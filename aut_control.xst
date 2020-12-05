@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Public/DIGITAL_CELT_DEFINITIVO/DIGITAL_CELT_MEJORAS/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Public/DIGITAL_CELT_DEFINITIVO/DIGITAL_CELT_MEJORAS/xst"
+elaborate
+-ifn aut_control.prj
+-ifmt mixed
